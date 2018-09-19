@@ -16,7 +16,7 @@ In this overview we'll go over the concept of explainability, discuss what it me
 
 ## Bio:
 
-Julio Barros is a machine learning consulatant in Portland, Oregon.
+Julio Barros is a [machine learning consulatant](https://E-String.com) in Portland, Oregon.
 
 He has been developing software for over 20 years and loves all things related to data, AI/ML, technology, teaching and mentoring.
 
